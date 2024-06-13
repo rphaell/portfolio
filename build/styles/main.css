@@ -40,20 +40,22 @@ header .profile_picture {
   display: block;
   margin: 0 auto 25px;
   border-radius: 50%;
+  height: 120px;
+  width: 120px;
 }
 .profile-bio {
   text-align: center;
 }
 .profile-bio-name {
-  font-size: 16px;
+  font-size: 36px;
   margin-bottom: 8px;
 }
 .profile-bio-subtitle {
-  font-size: 14px;
+  font-size: 24px;
   margin-bottom: 8px;
 }
 .profile-bio-description {
-  font-size: 14px;
+  font-size: 16px;
   opacity: 80%;
 }
 .social-links {
